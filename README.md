@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&color=6F0000&size=35&center=true&vCenter=true&width=458&lines=Hi+there!+This+is+Vishali;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&color=FFA500&size=35&center=true&vCenter=true&width=458&lines=Hi+there!+This+is+Vishali;)](https://git.io/typing-svg)
 
  A curious and enthusiastic programmer with a passion for programming.</div>    
 
@@ -47,7 +47,9 @@
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
+<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> </p>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -63,7 +65,11 @@
 
 <br/>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalisenthilkumar&" alt="vishalisenthilkumar" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalisenthilkumar&layout=compact&title_color=FFA500&hide_border=true&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
+
+<br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalisenthilkumar&layout=compact&title_color=FFA500&hide_border=true&text_color=FFFFFF&theme=dark" alt="vishalisenthilkumar" /></p>
 
 <p align=center>
 
