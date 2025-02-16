@@ -2,7 +2,7 @@
 
  A curious and enthusiastic programmer with a passion for programming.</div>    
 
-- 🎓 I'm a final year student at Government College of Technology, Coimbatore  
+- 🎓 I graduated from Government College of Technology, Coimbatore  
   
 
 - 🌱 I’m currently learning Machine Learning  
